@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividad1</string>
+    <string name="etTexto1">Texto Que Envio</string>
+    <string name="etTexto2">Texto que Recibo</string>
+    <string name="botonAceptar">Aceptar</string>
+    <string name="botonCancelar">Cancelar</string>
+    <string name="botonCambiar">Cambiar</string>
+</resources>
